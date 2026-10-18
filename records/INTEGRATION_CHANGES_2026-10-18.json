@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-18",
+  "scope": "Eight localized prose revisions and two edition/credit updates; chapter architecture unchanged.",
+  "before_sha256": "c109511ac7785e3932b03e2f2e12012298be9202e3bf23e967406ef9a820f047",
+  "after_sha256": "c9a6ce7e5203d4f4f18d9d3b43d9ae1546cd832a78b4f78a83e0838f19fce770",
+  "changes": [
+    {
+      "before": "Feedback on an overloaded worker’s report can clarify the task while leaving the shortage of hours untouched.",
+      "after": "Imagine receiving excellent feedback on work that still cannot fit into the available hours. The work has become clearer, not more possible.",
+      "reason": "Restore the memorable distinction between useful feedback and sufficient capacity."
+    },
+    {
+      "before": "Practical help raises other possibilities: a safer situation, less work, wider options, or a less lonely evening.",
+      "after": "Those findings leave open what a trusted relationship can provide over time. Practical help raises other possibilities: a safer situation, less work, wider options, or a less lonely evening.",
+      "reason": "Keep the limited support experiments from sounding like a general verdict on emotional support."
+    },
+    {
+      "before": "Ask the person what they are seeking. Someone who wants a better coat may simply need a warmer coat.",
+      "after": "Consider which of these possibilities fits your experience. Wanting a better coat may simply mean needing a warmer one.",
+      "reason": "Maintain the self-observation viewpoint established at the start of this section."
+    },
+    {
+      "before": "recognizing danger earlier could help a child survive it while leaving the harm intact.",
+      "after": "recognizing danger earlier could help a child anticipate a confrontation while leaving the harm intact.",
+      "reason": "Avoid suggesting a survival benefit from a study of facial-expression recognition."
+    },
+    {
+      "before": "Persistent sleep difficulty with daytime impairment deserves clinical assessment, including consideration of other sleep disorders and health conditions.[^6e]\n\nAt half past ten,",
+      "after": "Persistent sleep difficulty with daytime impairment deserves clinical assessment, including consideration of other sleep disorders and health conditions.[^6e]\n\nMaking room for sleep still leaves room for an absorbing book, a conversation that runs late, and the ordinary untidiness of living together. An evening can be worth having even when it goes differently from the plan.\n\nAt half past ten,",
+      "reason": "Return from clinical guidance to a livable household without restoring the repeated productivity coda."
+    },
+    {
+      "before": "These were observational records: illness could reduce movement, and other differences between more and less active people could contribute to the association.",
+      "after": "They also captured lives already in progress. Illness could reduce movement, and other differences between more and less active people could contribute to the association.",
+      "reason": "Make the observational-design limitation imaginable while preserving its substance."
+    },
+    {
+      "before": "A person can honor someone who died through an ongoing act of care, while continuing to wish the loss had never happened. Whether to describe that life as meaningful belongs first to the person living it.",
+      "after": "A person can honor someone who died through an ongoing act of care, while continuing to wish the loss had never happened. Finding value afterward gives an observer no right to declare the suffering meaningful. That interpretation belongs first to the person who endured it.",
+      "reason": "Recover the distinction between finding meaning after a loss and imposing meaning on another person’s suffering."
+    },
+    {
+      "before": "A method can become more effective at surveillance while making life worse for those watched.",
+      "after": "A method can become more effective at surveillance without improving the lives of those watched.",
+      "reason": "Restore the narrower point that improved performance does not itself establish a human benefit."
+    },
+    {
+      "before": "date: \"October 2026\"",
+      "after": "date: \"2026-10-18\"\nauthor: \"J\"\nedition: \"Reader beta · October 2026\"",
+      "reason": "Give the reading editions consistent date, credit, and edition metadata."
+    },
+    {
+      "before": "# About this edition\n\n",
+      "after": "# About this edition\n\nThis book grew from questions I wanted to understand better. AI contributed substantially to research, drafting, and rewriting. I chose the direction, questioned the results, and made editorial decisions. The book remains a reader beta; its account of the process accompanies the manuscript.\n\n",
+      "reason": "Carry the project’s authorship disclosure into copies read separately from the README."
+    }
+  ]
+}

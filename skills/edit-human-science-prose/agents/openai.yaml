@@ -1,0 +1,12 @@
+interface:
+  display_name: Human Science Prose Editor
+  short_description: Make science writing human without bending truth
+  default_prompt: Use $edit-human-science-prose to audit and minimally revise this
+    passage while preserving its evidence, ideas, and authorial voice.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

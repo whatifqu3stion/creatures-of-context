@@ -1,0 +1,12 @@
+{
+  "chapters": 13,
+  "unique_notes": 64,
+  "pdf_pages": 81,
+  "pdf_outline_entries": 19,
+  "pdf_links": 284,
+  "epub_xml_documents": 26,
+  "epub_internal_references": 234,
+  "errors": [],
+  "status": "passed",
+  "scope": "Source/output consistency, footnotes, XML and internal navigation, PDF page bounds. External URLs, scientific accuracy and visual quality require separate review."
+}

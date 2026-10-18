@@ -1,0 +1,98 @@
+[
+  {
+    "file": "00_introduction.md",
+    "before_words": 873,
+    "after_words": 854,
+    "changed": true
+  },
+  {
+    "file": "01_regulators.md",
+    "before_words": 1425,
+    "after_words": 1357,
+    "changed": true
+  },
+  {
+    "file": "02_stress.md",
+    "before_words": 2044,
+    "after_words": 1908,
+    "changed": true
+  },
+  {
+    "file": "03_reward.md",
+    "before_words": 1768,
+    "after_words": 1768,
+    "changed": true
+  },
+  {
+    "file": "04_learning.md",
+    "before_words": 1607,
+    "after_words": 1576,
+    "changed": true
+  },
+  {
+    "file": "05_variation.md",
+    "before_words": 1336,
+    "after_words": 1249,
+    "changed": true
+  },
+  {
+    "file": "06_sleep.md",
+    "before_words": 1554,
+    "after_words": 1520,
+    "changed": true
+  },
+  {
+    "file": "07_movement.md",
+    "before_words": 1341,
+    "after_words": 1322,
+    "changed": true
+  },
+  {
+    "file": "08_emotion.md",
+    "before_words": 1447,
+    "after_words": 1398,
+    "changed": true
+  },
+  {
+    "file": "09_connection.md",
+    "before_words": 1403,
+    "after_words": 1382,
+    "changed": true
+  },
+  {
+    "file": "10_habits.md",
+    "before_words": 1302,
+    "after_words": 1267,
+    "changed": true
+  },
+  {
+    "file": "11_delay.md",
+    "before_words": 1259,
+    "after_words": 1286,
+    "changed": true
+  },
+  {
+    "file": "12_meaning.md",
+    "before_words": 1371,
+    "after_words": 1361,
+    "changed": true
+  },
+  {
+    "file": "13_cooperation.md",
+    "before_words": 1521,
+    "after_words": 1513,
+    "changed": true
+  },
+  {
+    "file": "14_culture.md",
+    "before_words": 1623,
+    "after_words": 1576,
+    "changed": true
+  },
+  {
+    "file": "15_conclusion.md",
+    "before_words": 806,
+    "after_words": 794,
+    "changed": true
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "title": "Creatures of Context",
+  "subtitle": "Understanding Behavior in a World We Share",
+  "author": "J",
+  "edition": "2026-10-18",
+  "status": "reader beta",
+  "chapters": 13,
+  "front_and_back_chapters": 2,
+  "unique_source_notes": 64,
+  "main_text_words": 16761,
+  "word_count_including_notes": 20971,
+  "source": {
+    "path": "manuscript/Creatures_of_Context.md",
+    "sha256": "c9a6ce7e5203d4f4f18d9d3b43d9ae1546cd832a78b4f78a83e0838f19fce770"
+  },
+  "files": {
+    "Creatures_of_Context.epub": {
+      "bytes": 80272,
+      "sha256": "15a637a53ecb0ff849cf1ccaa43df1bdf8da597eefc3b90e69e34c3d4e489d8b"
+    },
+    "Creatures_of_Context.pdf": {
+      "bytes": 298730,
+      "sha256": "1652b403c3219c107d82532b90fd6465aea77098ae91dd3a89bfc45c207e4076"
+    },
+    "Creatures_of_Context.md": {
+      "bytes": 139895,
+      "sha256": "c9a6ce7e5203d4f4f18d9d3b43d9ae1546cd832a78b4f78a83e0838f19fce770"
+    }
+  }
+}

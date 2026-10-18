@@ -1,0 +1,12 @@
+body {font-family: Georgia, serif; line-height: 1.5; margin: 5%;}
+p {margin-top: 0; margin-bottom: .8em;}
+h1,h2,h3 {font-weight: normal; line-height: 1.2; text-align: left; break-after: avoid;}
+h1 {font-size: 1.9em; margin: 2em 0 1em;}
+h2 {font-size: 1.55em; margin: 2em 0 1em;}
+h3 {font-size: 1.12em; font-weight: bold; margin-top: 1.7em;}
+a {color: inherit; text-decoration: underline; overflow-wrap: anywhere;}
+.footnote-ref {font-size: .85em;}
+.footnotes {font-size: .9em;}
+.title {font-size: 2.4em; margin-top: 2em;}
+.subtitle {font-size: 1.2em;}
+nav ol {list-style-type: none; padding-left: 1em;}

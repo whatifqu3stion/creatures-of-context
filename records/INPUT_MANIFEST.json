@@ -1,0 +1,21 @@
+{
+  "baseline": "integration working copy at start of 2026-10-02 UTC pass",
+  "files": {
+    "00_introduction.md": "3cf242554c492c5c4b5ce853ee3f6cc9726d4fbb41a8c58df792fe1f5c8b71aa",
+    "01_regulators.md": "83be500ba79e476c82b91f62bd01205aa41b892b35177d332714e748a11a5fa5",
+    "02_stress.md": "0021726d39a02cd22aa5a8d8a2e59de9363afffbd7d310892c9f6243cf93e212",
+    "03_reward.md": "5b1bbbb1367383c392f58c29523a317d6046be186a376310200e1ba2d3096a4c",
+    "04_learning.md": "9c3edb7b60e2ea3093c545a6e213db84c173f053db247b7a32de2219398bb8f0",
+    "05_variation.md": "9c1a27d992f80ba461ba28d177bc12ec5dbcda0058d1d3810d2ad68bd7a6c446",
+    "06_sleep.md": "7199b2fa92886b100cb865dd7bf86207b7c1f9a817c21610659ffd37c7ba1210",
+    "07_movement.md": "919ca14c1396c2a7379c24626af95255d3f51242c2a0b66bf5e18bf9db4c17c6",
+    "08_emotion.md": "7f53c7f8671c583743ed31d18f194320068b62f9620d021f43c9f64b7be2a5d0",
+    "09_connection.md": "781cc84240efc953aa31ddfe1d4ffcd743a6e166f76db8493782ba4ab98f2906",
+    "10_habits.md": "6ee157ca67ec7e8f7889ea52bc2d140e9461a7273ac287388182d9d7525dde1c",
+    "11_delay.md": "26c255845a9114d84c6c38d2efa613a6405b7e9e25d0838a94237420b8f16c54",
+    "12_meaning.md": "0daafc36a381c060c06a0983876343e3e04c5dbd4957c580f8fa6c7d58da38b9",
+    "13_cooperation.md": "207972789b05dbeb29db82f318825e2a750a619926fbb9885d5e2edfe8fe938f",
+    "14_culture.md": "f7e4be3f50429af831957eb32e8c9a20afba57fe602492eed6eec44c210c3e2a",
+    "15_conclusion.md": "a805f8fa630cadf5a6dd65b26a20c7819f986f90e2f559f0b763b6b79fa9a8cc"
+  }
+}

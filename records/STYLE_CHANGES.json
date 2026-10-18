@@ -1,0 +1,326 @@
+[
+  {
+    "chapter": "00_introduction.md",
+    "reason": "Let the deadline example carry the purpose; reserve the full question sequence for the conclusion.",
+    "before": "The ambition of this book is to improve the match between explanation and action. What is happening? Which explanation fits what we know? What would help us tell? Where is a change possible, and who can make it? These questions do not promise an easy solution. They give us a way to look for one without beginning with a verdict about character.",
+    "after": "The ambition of this book is to improve the match between explanation and action. Before prescribing another planning tool, we need to know which difficulty the employee faces and who can change it. That inquiry begins where a verdict about character usually ends."
+  },
+  {
+    "chapter": "01_regulators.md",
+    "reason": "Stay with the applicant instead of interrupting the decision with three fresh examples.",
+    "before": "We can now ask what would be different if an explanation were true. If interruption is the problem, a protected interval should help. If the task is unclear, removing distractions may simply provide a quieter place to remain confused. If another person's answer is needed, further introspection may have reached its limit.",
+    "after": "The visit has done something that another evening of weighing feelings could not: it has supplied information about the job. The applicant can now ask about the evening duties instead of wondering whether they are simply afraid of change."
+  },
+  {
+    "chapter": "01_regulators.md",
+    "reason": "Remove an instructional recap whose steps the preceding decision has demonstrated.",
+    "before": "The same inquiry can be used at a much smaller scale. Describe a particular event. Separate what is known from what is inferred. Consider another explanation, and ask what would distinguish the two. Choose a feasible next step, including who can take it and who will bear its cost. Then pay attention to the result.\n\n",
+    "after": ""
+  },
+  {
+    "chapter": "02_stress.md",
+    "reason": "Show the procedure before explaining what it elicits; no new factual detail.",
+    "before": "One of the more reliable ways to elicit a cortisol response from a healthy adult\nin a laboratory is to ask them to give a speech.\n\nThe volunteer stands in front of a panel and speaks while the panel watches\nwithout encouragement. Then comes mental arithmetic, performed aloud while\nerrors are corrected and the task begins again.",
+    "after": "The volunteer stands in front of a panel and gives a speech. The panel watches\nwithout encouragement. Then comes mental arithmetic, performed aloud while\nerrors are corrected and the task begins again.\n\nThis is one of the more reliable ways to elicit a cortisol response from a\nhealthy adult in a laboratory."
+  },
+  {
+    "chapter": "02_stress.md",
+    "reason": "Connect the organizing idea to the attributed account instead of defining the lens again.",
+    "before": "This book calls that work of noticing and preparing for possible harm\n*Threat*. Threat is a lens, not a brain switch. It draws our attention to the\nrelationship between the person and what might happen: what experience has\ntaught them to expect, what they are trying to protect, and what options they\nhave now.\n\nAn alarm response is not a verdict. It is preparation.",
+    "after": "Streisand's account brings the anticipated cost into focus: another lapse,\nin front of another audience. To understand the preparation for possible harm\nthat we are calling *Threat*, we need that detail. A raised pulse alone cannot\nsupply it."
+  },
+  {
+    "chapter": "02_stress.md",
+    "reason": "Replace a repeated worksheet with a brief return to the chapter’s concrete situations.",
+    "before": "### Opening the word\n\nWhen *stress* begins to explain everything, three questions can open it back\nup.\n\n**What is being asked of me?** The demand might be performance, uncertainty,\nconflict, pain, overload, danger, grief, or the return of something learned in\nan earlier situation. Naming it does not make it smaller. It tells us what the\nalarm is preparing for.\n\n**Where is the cost showing up?** The answer might be lost sleep, pain, fear,\nanger, poor concentration, conflict, avoidance, exhaustion, or an inability to\ndo what matters. A calmer measurement is not the obvious goal if the schedule\nremains impossible or the relationship unsafe.\n\n**What would reach it—and who can do that?** Sometimes a person can act\ndirectly. Sometimes another person has the information, time, money, skill, or\nauthority. Sometimes no available action can remove the main demand, and the\nhonest aim is partial: protect sleep, reduce one cost, share vigilance, or make\nroom for ordinary life.\n\nThese are not diagnostic questions, and they do not promise a solution. They\nseparate the response from the demand, the cost, and the location of possible\nchange.",
+    "after": "### Room beyond the alarm\n\nFor the worker with too much to do, the inquiry can begin with the hours and\nthe person who assigns the tasks. For the caregiver whose vigilance cannot\nend tonight, it may begin with someone who can take a turn. Neither needs to\nproduce a calmer saliva sample to establish that help would matter. Sometimes\nthe available change is partial: one night of rest, one duty shared, enough\nattention left for something besides the demand."
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Allow the next section to introduce the distinction without announcing it twice.",
+    "before": "To understand the problem, we need to separate attraction, pleasure, and learning.\n\n",
+    "after": ""
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Replace a generic kitchen illustration with the original experiment and its measurement limit.",
+    "before": "A smell from a kitchen can make food compelling before the first bite. Eating then brings an experience that may or may not live up to the invitation. Later, the smell may acquire new significance because of what happened.\n\nResearchers use more precise terms for parts of this sequence.",
+    "after": "In a 1989 experiment, Kent Berridge, Isabel Venier, and Terry Robinson studied rats after chemically damaging dopamine-producing neurons. Some stopped eating on their own. Had food ceased to be pleasant, or had something else gone wrong?\n\nTo find out, the researchers delivered taste solutions directly into the rats' mouths. A mirror beneath the chamber let a camera record the face and mouth. Sweet solutions still elicited the tongue movements and paw licking used to assess positive reactions to taste; bitter solutions still elicited aversive reactions. The broad pattern survived even in rats that would not feed themselves.[^3e]\n\nThose movements are a measure of response, not a rat's spoken account of pleasure. But their survival made an important separation visible: failing to eat did not necessarily mean losing the positive reaction to sweetness.\n\nResearchers use distinct terms for components of reward."
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Connect experimental distinction to experience without equating a laboratory lesion with everyday behavior.",
+    "before": "The distinction is not a claim that pleasure and desire normally have nothing to do with each other. Their frequent agreement helps make the disagreements interesting. You can be pulled toward an outcome that disappoints you, or enjoy an experience you did not strongly anticipate.",
+    "after": "In ordinary life, anticipation and enjoyment often agree. Their disagreements are what catch our attention: the purchase that is exciting until it arrives, the reluctant conversation that becomes the best part of the day. These experiences are not equivalents of the animal experiment, but they give us a reason to ask separately about pursuit and pleasure."
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Avoid re-explaining the same separation and retain the distinction between pleasure and endorsement.",
+    "before": "The ordinary implication is less dramatic and more useful: ask separately what attracts you, what you experience while doing it, and how you feel about having done it afterward. These questions need not produce the same answer.\n\nA difficult rehearsal may feel frustrating and leave you glad you attended. A purchase may be thrilling until it arrives. A conversation may begin reluctantly and become the best part of the day. Pleasure is one important outcome; it is not the only reason an activity can deserve a place in a life.",
+    "after": "There is a further distinction between enjoying an activity and being glad to have done it. A difficult rehearsal may be frustrating from beginning to end and still feel worth attending. Pleasure is one reason to make room for something; it is not the only one."
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Cut repetition of the immediately preceding autoplay explanation while retaining its status as a proposal.",
+    "before": "When a service carries the next action forward, stopping becomes the user’s task. An explicit pause can make that decision visible again. This is the design argument proposed here; the effect of any particular change still has to be examined.",
+    "after": "Restoring a pause might help the viewer notice the decision to continue. That is a design proposal whose effect would need testing, including whether the interruption is welcome."
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Name the actual trade-off rather than praising the study for complicating a story.",
+    "before": "That mixture matters. It gives us evidence that access can affect experience, while refusing a universal story about screens. The study concerned a particular platform, period, intervention, and group of participants. It did not establish what would happen if every digital service disappeared or which individual would benefit from leaving.",
+    "after": "Leaving Facebook carried a trade-off: people felt better on average and knew less factual news. That result belongs to a particular platform and election period. It cannot tell us which reader would benefit from leaving a different service today."
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Cite the original paper before the conceptual review, in first-reference order.",
+    "before": "[^3a]: Kent C. Berridge",
+    "after": "[^3e]: Kent C. Berridge, Isabel L. Venier, and Terry E. Robinson, “Taste Reactivity Analysis of 6-Hydroxydopamine-Induced Aphagia: Implications for Arousal and Anhedonia Hypotheses of Dopamine Function,” *Behavioral Neuroscience* 103 (1989): 36–45. Author-hosted full paper: https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/Berridge-Venier-Robinsion-1989-6-OHDA-lesions-Beh-Neurosci.pdf. Methods and results, pp. 38–40. The broad response categories were preserved; finer analysis found a redistribution of some tongue movements. This is animal taste-reactivity evidence, not a direct measure of conscious pleasure or a model of ordinary phone use.\n\n[^3a]: Kent C. Berridge"
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Update the note to match the new experiment and remove obsolete kitchen reference.",
+    "before": "This paragraph uses their technical distinctions; the kitchen sequence is an ordinary illustration, not a reported experiment.",
+    "after": "The terms name technical components of reward and do not encompass every conscious wish. The preceding experiment is sourced separately in note 1 of this chapter."
+  },
+  {
+    "chapter": "04_learning.md",
+    "reason": "Keep the sample and generalization limits in ordinary language; join qualification to the narrative.",
+    "before": "The size of the study and the narrow task matter. It cannot explain why every child waits, predict a child's future, or settle how poverty shapes decision-making. Its usefulness is more precise. It interrupts the habit of treating the behavior as a property of the child alone.\n\nThe child has been learning the world in which waiting occurs.",
+    "after": "Twenty-eight children in one task cannot tell us why every child waits or how poverty shapes a life. They can show why the adult belongs in the explanation. Before the reward reached the table, the child had been learning whether this person's promises could be trusted."
+  },
+  {
+    "chapter": "04_learning.md",
+    "reason": "Replace a generic three-part recap with the practical implication and its limit.",
+    "before": "The wider lesson must remain modest. Early experiences matter, later experiences matter, and people do not have equal opportunities to encounter conditions that support change. Evidence of plasticity is not a promise that anyone can become anything if sufficiently determined.\n\n",
+    "after": "People do not have equal access to better conditions. Evidence that development can change puts a responsibility on those who can provide care; it does not promise that determination will undo any history.\n\n"
+  },
+  {
+    "chapter": "04_learning.md",
+    "reason": "Let the child’s decision make the point; remove the announced chapter lesson.",
+    "before": "That is the change this chapter asks us to carry forward. When a response seems stubborn or puzzling, ask what it has learned to expect. Then resist the urge to assume that a plausible answer is the whole history.\n\n",
+    "after": ""
+  },
+  {
+    "chapter": "05_variation.md",
+    "reason": "Open with a single person across two settings and lead naturally into the study’s repeated observations.",
+    "before": "An average is a useful answer to a particular question. It becomes troublesome when asked to describe a person.\n\nSuppose a study finds that a group benefits from a certain change in routine. That finding can give you a good reason to consider the change. It cannot tell you, by itself, how much you will benefit, what it will cost you, or whether an important feature of your life was represented in the study.\n\nWe know this in ordinary settings. Shoes can be the right size on average and still fail to fit a foot. In psychological explanations, however, an average result can acquire the authority of a rule. When the rule fails, people are left wondering whether they have performed their humanity incorrectly.\n\nThe problem is not that research uses averages. Much important knowledge depends on them. The problem is forgetting which question the average answered.\n\n### A person contains variation too\n\nPersonality descriptions often sound like fixed instructions. Someone is outgoing, cautious, conscientious, or emotionally reactive, as though each label specified what happens whenever a situation appears.",
+    "after": "Imagine someone who talks freely over dinner with close friends, then says almost nothing in a meeting the next morning. A friend calls them outgoing. A colleague calls them quiet. Both have evidence.\n\nWe could choose one description and explain away the other. Or we could ask what changed between the dinner table and the meeting: the company, the subject, the right to interrupt, the cost of saying something foolish. A trait can summarize a person while leaving a particular silence unexplained.\n\n### A person contains variation too\n\nThe dinner and the meeting are illustrations. William Fleeson approached the underlying question by asking people about their personality-related states repeatedly during ordinary life."
+  },
+  {
+    "chapter": "05_variation.md",
+    "reason": "Explain within-person variation and between-person averages without repeating the opening illustration.",
+    "before": "William Fleeson studied personality-related states repeatedly during ordinary life. Across his experience-sampling studies, people showed considerable variation in how they behaved, while differing more stably in the average patterns around which their behavior ranged.[^5a] A person could be relatively outgoing compared with others and still have many quiet moments.\n\nA trait summarizes a pattern rather than specifying every moment. Imagine someone who speaks freely among close friends and says little in a formal meeting. The two observations are not necessarily inconsistent. The relationships, expectations, knowledge, and consequences differ. A label such as *introverted* may describe a broad tendency while doing little to explain the contrast between those settings.",
+    "after": "Across those studies, the same people described considerable variation in their behavior. Yet the average patterns around which each person's behavior ranged were more stable.[^5a] Someone could be relatively outgoing compared with others and still have many quiet moments. An average was informative without being a schedule of what the person would do next.\n\nThe distinction matters when findings become advice. If a group benefits from a change in routine, that gives a reader a reason to consider it. The average benefit cannot reveal how well the change will fit a particular life, or whether that life was represented in the study."
+  },
+  {
+    "chapter": "05_variation.md",
+    "reason": "Replace abstract reassurance with a concrete implication; no new efficacy claim.",
+    "before": "For ordinary decisions, this distinction is liberating in a restrained way. You do not have to deny a tendency in order to seek conditions that help. Nor do you have to prove that a difficulty is genetically caused before it deserves accommodation.\n\nThe useful question is what reliably improves participation or reduces a meaningful cost.",
+    "after": "You do not have to deny a tendency in order to seek conditions that help. Nor must someone prove a genetic cause before asking for an accommodation. A quieter room can be useful before anyone settles why noise makes concentration difficult."
+  },
+  {
+    "chapter": "06_sleep.md",
+    "reason": "Keep the crucial opportunity-versus-insomnia distinction inside the continuing household story.",
+    "before": "An opportunity to sleep and the ability to sleep are different. If we insist that every difficult night must be explained by the household arrangement, we can become as unhelpful as the person who insists that every problem is a lack of willpower. An explanation earns its place by helping us understand what is happening. It should be possible to discover that we need a different one.",
+    "after": "The household has made room for sleep. Sleep has not followed. Another rearrangement of the chores may leave the parent just as awake; the next step is to consider a difficulty the evening's schedule cannot explain."
+  },
+  {
+    "chapter": "06_sleep.md",
+    "reason": "Retain explicit authorial ethical judgment without another laboratory-boundary reminder.",
+    "before": "I would not make rest earn its place solely by improving tomorrow’s output. A person deserves care even when no increase in productivity follows. That is an ethical judgment, and the laboratory cannot make it for us.",
+    "after": "I would not make rest earn its place solely by improving tomorrow’s output. A person deserves care even when no increase in productivity follows. That is a judgment about what we owe one another."
+  },
+  {
+    "chapter": "07_movement.md",
+    "reason": "Replace a statement about why the chapter belongs with concrete obstacles in the reader’s world.",
+    "before": "Movement belongs in a book about context because it is both a bodily activity and an opportunity arranged by the world. The relevant environment includes pavements and weather, pain and energy, working hours and money, company and the expectation of being welcome. It also includes the meanings attached to exercise: play, punishment, independence, embarrassment, relief.",
+    "after": "Even after the route is settled, the activity has to fit the body and the day. Pain may make the return journey harder than the outward one. A class may begin before work ends. A place can be open to everyone and still leave a newcomer wondering whether they belong."
+  },
+  {
+    "chapter": "07_movement.md",
+    "reason": "Give the second review and the clinical implication breathing room.",
+    "before": "A headline ranking the single best activity makes those difficulties disappear too quickly. A 2026 Cochrane review",
+    "after": "A headline ranking the single best activity makes those difficulties disappear too quickly.\n\nA 2026 Cochrane review"
+  },
+  {
+    "chapter": "07_movement.md",
+    "reason": "Carry the opening park example through attempts and constraints instead of supplying another diagnostic list; clearly hypothetical.",
+    "before": "Consider an imagined office worker who repeatedly purchases ambitious exercise plans and then stops using them. There are several possible explanations. The plan may be unpleasant. The time may be unavailable. The worker may be pursuing somebody else's goal. A health problem may make the proposed activity unsuitable. Or the intention may be sincere, the activity appropriate, and the transition from work to the session full of avoidable obstacles.\n\nEach possibility points somewhere different. Leaving equipment ready would not solve an unsafe route. A companion would not necessarily solve pain. A gentler starting point would not create childcare. Calling all of these failures of willpower produces a single answer by refusing to distinguish the questions.",
+    "after": "Suppose the person looking at the park map is an office worker who has abandoned several exercise plans. This time the plan is modest: walk after work. On Monday a late meeting uses the available daylight. On Tuesday the worker reaches the crossing and turns back. Leaving shoes beside the desk has made departure easier. It has not made the road safer.\n\nA lunchtime route might work, if lunch is theirs to use. Walking with someone might make the outing more welcome, if the route itself is suitable. Each revision depends on discovering what stopped the previous attempt. In another person's case, that could be pain, care responsibilities, or an activity they never wanted to do."
+  },
+  {
+    "chapter": "07_movement.md",
+    "reason": "End on the next chapter’s live question rather than another general statement about fit.",
+    "before": "An activity that fits can give the body more than a task to complete. There may be enjoyment, frustration, pride, or embarrassment in it. Making movement possible includes allowing those experiences to be part of an ordinary life, without turning every feeling into a verdict on the person having it.",
+    "after": "Enjoyment is not guaranteed. The class may be awkward, the game frustrating, the first attempt embarrassing. Making room to move also means making room for those feelings—and deciding what to do when they arrive."
+  },
+  {
+    "chapter": "08_emotion.md",
+    "reason": "Keep the opening at the decision instead of stepping out to enumerate the chapter’s questions.",
+    "before": "Several questions now occupy the same moment. What happened? What are you feeling? What would help you understand the situation? What response would serve the relationship, including your place within it?\n\nAn emotion brings something to your attention. It does not settle all those questions on its own.",
+    "after": "The message is still unsent. You could ask what happened, describe the disappointment, or make an accusation. Anger has made the cancellation matter enough to answer. It has not chosen the answer for you."
+  },
+  {
+    "chapter": "08_emotion.md",
+    "reason": "Remove a summary already established by the reappraisal evidence and examples.",
+    "before": "This is why an inventory of desirable techniques is insufficient. The same technique can serve avoidance in one setting and useful endurance in another.\n\n",
+    "after": ""
+  },
+  {
+    "chapter": "08_emotion.md",
+    "reason": "The immediately preceding sentence already makes the relationship’s history decisive.",
+    "before": "No general account of regulation can settle that history for you.\n\n",
+    "after": ""
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Replace unspecified patterns with the signal changes described in the primary author’s review; do not imply all dopamine neurons behave identically.",
+    "before": "Wolfram Schultz's work on reward prediction errors describes changes in the activity of many dopamine neurons when outcomes differ from expectations. In classic learning tasks, an unexpectedly good outcome produces one pattern, a fully predicted outcome another, and the omission of an expected reward another. As learning develops, predictive cues become important. The discrepancy helps an organism update what to expect.[^3c]",
+    "after": "In the learning tasks described by Wolfram Schultz, an unpredicted reward activates a dopamine neuron. Once the reward is fully predicted, its arrival produces no extra response. If the expected reward fails to arrive, activity drops below its usual level. As learning develops, the response appears at the cue that predicts the reward.[^3c]\n\nThe reward can stay the same while the signal changes. What matters to this response is the difference between what arrives and what was expected. Researchers call that difference a *reward prediction error*: information that can help update an expectation."
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Avoid defining prediction error twice and retain the heterogeneity boundary next to the signal example.",
+    "before": "A prediction error is a difference between an outcome and a prediction, not proof of a mistake in judgment or a defect in character. The same broad logic makes learning possible. If every event taught us equally much, whether expected or surprising, experience would be a poor guide.\n\nThis explanation also needs its boundaries. Dopamine has multiple roles, and dopamine neurons are not a uniform population.",
+    "after": "The word *error* does not imply bad judgment. A reasonable prediction can be wrong. Nor is this a complete account of dopamine, which has multiple roles, or of dopamine neurons, which are not a uniform population."
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Use a stable cross-reference: the reading editions number notes across the book, not by chapter.",
+    "before": "The preceding experiment is sourced separately in note 1 of this chapter.",
+    "after": "The preceding experiment is sourced separately in the Berridge–Venier–Robinson note."
+  },
+  {
+    "chapter": "04_learning.md",
+    "reason": "Explain the verified art-and-sticker procedure before the result, using the original authors’ full paper.",
+    "before": "In a small experiment, Celeste Kidd, Holly Palmeri, and Richard Aslin arranged for an adult to behave reliably or unreliably before a waiting task. Among the twenty-eight children studied, those who had experienced reliability waited longer for the promised reward. The experiment changed something about the setting before asking the child to wait. It therefore supplied evidence that performance could reflect expectations about the adult, as well as capacities for self-control.[^4a]",
+    "after": "Celeste Kidd, Holly Palmeri, and Richard Aslin began their experiment with an art project. An adult offered better supplies if the child waited. In one condition, she returned with them. In the other, she returned empty-handed. A second promise, this time about better stickers, was kept or broken in the same way.\n\nThen came the marshmallow: one now, or two if the child waited for the adult to return. Among the twenty-eight children, those assigned to the reliable adult waited longer.[^4a] The treat presented the same choice, but the person making the promise now had a different record."
+  },
+  {
+    "chapter": "04_learning.md",
+    "reason": "Record the accessible primary full text used to verify the added procedure.",
+    "before": "Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC3730121/. The experiment had 28 participants; it supports a narrow situational effect, not a comprehensive theory of disadvantage.",
+    "after": "Author-hosted full text: https://www.kiddlab.com/_files/ugd/0975fd_d7e58cfd98604428945ba9afd6d41f64.pdf. The art-task procedure and random assignment were checked in section 2, pp. 110–111. The experiment had 28 participants; it supports a narrow situational effect, not a comprehensive theory of disadvantage."
+  },
+  {
+    "chapter": "09_connection.md",
+    "reason": "Use a direct heading that matches the actual section.",
+    "before": "### Connection is not just a feeling about health",
+    "after": "### What a health finding can tell us"
+  },
+  {
+    "chapter": "09_connection.md",
+    "reason": "Remove a second statement of the preceding ethical distinction.",
+    "before": "The scientific findings strengthen the case for taking disconnection seriously. They do not create that case from nothing.\n\n",
+    "after": ""
+  },
+  {
+    "chapter": "09_connection.md",
+    "reason": "Introduce the reading group within the existing newcomer’s story; retain the limit without an abstract diagnostic disclaimer.",
+    "before": "These are questions for understanding a situation, not categories that diagnose it. More than one answer can be true.\n\nImagine a person who moves to a new town for work. They accept every invitation, then return home tired and disappointed. Their effort has created encounters but little familiarity. In this case, a recurring activity with some of the same people might offer something a sequence of unrelated events does not: a chance for recognition to accumulate.\n\nThat is a practical hypothesis. It may fail if the group is unwelcoming, inaccessible, too expensive, or simply a poor fit. The person has learned something about an arrangement, not established that they are incapable of belonging.",
+    "after": "Imagine a person who moves to a new town for work. They accept every invitation, then return home tired and disappointed. At each event they explain again where they have come from and what they do. Nothing has yet lasted long enough for a conversation to begin somewhere else.\n\nThey try a neighborhood reading group that meets regularly. It offers a possibility the unrelated events have not: returning to some of the same people. It could still be unwelcoming, inaccessible, or a poor fit. Attendance is an opportunity for familiarity, not a guarantee of it."
+  },
+  {
+    "chapter": "09_connection.md",
+    "reason": "Carry one clearly fictional newcomer through repeated encounters; let recognition demonstrate continuity.",
+    "before": "In an imagined neighborhood reading group, a newcomer initially sits at the edge and listens. Over time, someone remembers what they said. Another person asks whether they will come next week. They begin choosing a passage, setting out chairs, or disagreeing about a book with people who know that disagreement will not end the acquaintance.\n\nNothing spectacular has happened. The relationship has acquired continuity and a little mutual expectation. Participation no longer begins entirely from zero.",
+    "after": "At the reading group, our newcomer initially sits at the edge and listens. On a later visit, someone remembers the book they mentioned and asks whether they finished it. The answer starts a conversation they could not have had on the first evening. They no longer have to introduce their whole life before saying something about it.\n\nIn time they choose a passage for the group, help set out chairs, and disagree about a book. Someone asks whether they will be there next week. The question is ordinary. Being expected is new."
+  },
+  {
+    "chapter": "10_habits.md",
+    "reason": "Translate the study’s practical boundaries into ordinary actions without introducing a numerical habit deadline.",
+    "before": "The finding is more useful when it releases a person from the deadline than when it supplies a new one. A complex practice is not necessarily comparable to a simple action. A stable cue is not equally available in every life. Self-reported automaticity is also not the same as flawless performance under all circumstances.",
+    "after": "Replacing one universal deadline with another would miss the finding. Drinking a glass of water and writing a chapter make different demands. A cue that occurs reliably for one person may disappear when another person's shift changes. And reporting that an action feels automatic does not mean performing it flawlessly in every setting."
+  },
+  {
+    "chapter": "10_habits.md",
+    "reason": "Let a clearly illustrative plan meet an interruption and carry that event into the next section.",
+    "before": "For an illustrative reading plan, a person might decide to put a book where they sit after lunch and read a few pages before opening another application. The plan names an occasion and a beginning. An interrupted lunch is a reason to reconsider the occasion, not the value of reading.\n\nUseful plans also have proportionate alternatives. If the usual occasion disappears, what is the smallest worthwhile version that remains feasible? If nothing is feasible that day, when will the person next reconsider? The alternative should preserve the purpose without creating a complicated system whose maintenance becomes another burden.\n\nThe aim is to reduce needless decisions, not to remove judgment from living.",
+    "after": "Suppose our reader puts a book beside the chair where they sit after lunch. The plan is to read a few pages before opening another application. On the first two days, the book is there when the meal ends. There is no search for something to read and no need to decide when to start.\n\nOn the third day, lunch is interrupted. The book remains beside the chair. A plan that made beginning easier has encountered an occasion it cannot protect."
+  },
+  {
+    "chapter": "10_habits.md",
+    "reason": "Follow the reading plan through return instead of introducing a separate language-learning example.",
+    "before": "An imagined person practicing a language might miss several evenings while caring for a relative. Their first available session need not include repayment for every missed minute. They can resume the practice at a scale that fits the current week. If the caring arrangement is continuing, a different schedule may be necessary. The old plan has encountered new information.",
+    "after": "For the reader, the next lunch need not include all the pages missed yesterday. They can open the book where they left it. If interruptions keep taking the same part of the day, a different occasion may be worth trying. The question is whether reading has a usable place, not whether the calendar remains unbroken."
+  },
+  {
+    "chapter": "11_delay.md",
+    "reason": "Give the existing fictional writer an actual first attempt and consequence; maintain continuity with the opening availability of information.",
+    "before": "For the imagined report, a rough paragraph that states the argument may be more revealing than another hour of preparation. It creates something that can be evaluated. The first useful product might be a visible problem rather than a good sentence.",
+    "after": "Suppose the author finally writes the paragraph. It recommends continuing a project because participation has risen. On the page, the gap is suddenly obvious: more people attending does not establish that the project helped them. The information on hand was enough to begin, but not enough to support the conclusion.\n\nThe author marks the missing evidence and sends a colleague a specific question about outcomes. The paragraph is still poor. It has done something the rearranged heading could not: revealed what the report needs next."
+  },
+  {
+    "chapter": "11_delay.md",
+    "reason": "Cut a restatement of the preceding manager and teacher examples.",
+    "before": "The relationship between permission and performance is therefore partly social. Telling a person to be less perfectionistic is insufficient when their environment treats every error as a lasting judgment.\n\n",
+    "after": ""
+  },
+  {
+    "chapter": "11_delay.md",
+    "reason": "Keep the report’s evidential problem active and make helpful accountability concrete.",
+    "before": "The useful form depends on the obstacle. Someone may benefit from agreeing to send a rough outline at a particular time. Another may need a colleague to answer a question before work can proceed. A third may need the workload reduced. The word accountability does not distinguish these arrangements unless we specify what the other person will actually do.",
+    "after": "Our author needs an answer about the project's outcomes. A reminder to finish by Friday would add pressure without supplying it. The colleague can instead clarify what is known, or help narrow the report to a claim the evidence supports. In another case, a commitment to send a rough outline at a set time might be useful. The word *accountability* does little until we say what the other person will do."
+  },
+  {
+    "chapter": "12_meaning.md",
+    "reason": "Return from the research to Jo rather than opening with an abstract inference.",
+    "before": "There is room, then, for receiving what a life contains. There may be nothing to accomplish during a piece of music beyond hearing it. Enjoying someone’s company need not produce a deeper relationship by the end of the afternoon. A good meal can end without becoming a lesson.",
+    "after": "Jo does not need the music to become a new project. There may be nothing to accomplish beyond hearing it. Enjoying someone’s company need not produce a deeper relationship by the end of the afternoon. A good meal can end without becoming a lesson."
+  },
+  {
+    "chapter": "12_meaning.md",
+    "reason": "Use a direct authorial voice for an ethical commitment while keeping it distinct from the evidence.",
+    "before": "This book takes an ethical position: people have claims on our concern that do not depend on their productivity. A study can investigate what people experience as meaningful. It cannot establish that only people who feel useful deserve consideration.",
+    "after": "The position I take here is that people have claims on our concern that do not depend on their productivity. Research into what people experience as meaningful cannot decide whose life deserves care."
+  },
+  {
+    "chapter": "13_cooperation.md",
+    "reason": "The garden is already explicitly fictional throughout; enter the next event directly.",
+    "before": "The gardeners’ dispute need not remain inside the garden. In our example, a message about the repeated shortage reaches the neighborhood group. Replies arrive from people who have never seen the rota. The accusation is easier to follow than the history of how the rule was made.",
+    "after": "A message about the repeated shortage reaches the neighborhood group. Replies arrive from people who have never seen the rota. The accusation is easier to follow than the history of how the rule was made."
+  },
+  {
+    "chapter": "13_cooperation.md",
+    "reason": "Put the interpretive limit after the concrete possibility and remove repeated fictional labeling.",
+    "before": "A forceful statement may reflect sincere anger, adaptation to an audience, or both. We can examine the rewards for saying something without assuming the speaker is insincere. In the imagined dispute, applause might encourage a member to repeat the simplest accusation, even after the meeting has revealed a more complicated account.",
+    "after": "A forceful statement may reflect sincere anger, adaptation to an audience, or both. In the garden dispute, applause might encourage a member to repeat the simplest accusation, even after the meeting has revealed a more complicated account. The person need not be pretending to be angry for the audience to influence what they say next."
+  },
+  {
+    "chapter": "14_culture.md",
+    "reason": "Condense the re-entry and let the concrete changes show what has helped.",
+    "before": "The garden from the previous chapter now has a month of experience with its revised division of work. In this imagined continuation, assigning different tasks has helped. The caregiver can arrange swaps from home, and the member who struggled with digging has taken shorter watering visits. Fewer jobs go unfilled.",
+    "after": "A month has passed in our imagined garden. The caregiver arranges swaps from home, and the member who struggled with digging takes shorter watering visits. Fewer jobs go unfilled."
+  },
+  {
+    "chapter": "14_culture.md",
+    "reason": "Remove the summary of the immediately preceding reduced-harvest consequence.",
+    "before": "Respecting the members’ limits has meant growing less. The rule has changed what the garden can promise, including to people who hoped for more from it.\n\n",
+    "after": ""
+  },
+  {
+    "chapter": "15_conclusion.md",
+    "reason": "Let the opening recipient-to-sender reversal stand without an aphoristic explanation.",
+    "before": "Understanding has earned something when it helps us tell those situations apart.\n\n",
+    "after": ""
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Tighten the measurement limit while preserving it.",
+    "before": "Those movements are a measure of response, not a rat's spoken account of pleasure. But their survival made an important separation visible: failing to eat did not necessarily mean losing the positive reaction to sweetness.",
+    "after": "The movements could not report conscious pleasure. They did show that failing to eat need not mean losing the positive response to sweetness."
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Make clear that this describes a response pattern rather than every dopamine neuron.",
+    "before": "In the learning tasks described by Wolfram Schultz, an unpredicted reward activates a dopamine neuron.",
+    "after": "In a classic response pattern described by Wolfram Schultz, an unpredicted reward activates a dopamine neuron."
+  },
+  {
+    "chapter": "03_reward.md",
+    "reason": "Avoid repeating the results immediately after reporting them.",
+    "before": "Leaving Facebook carried a trade-off: people felt better on average and knew less factual news. That result belongs to a particular platform and election period.",
+    "after": "The trade-off belongs to a particular platform and election period."
+  }
+]
