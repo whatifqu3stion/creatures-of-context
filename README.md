@@ -68,6 +68,8 @@ Would I use one again? Yes, but with a smaller job. I would keep a short set of 
 
 I would also expect to revise the instructions when they kept producing the same problem. A later pass is useful for catching mistakes; it should not become a routine repair job for habits we have already identified. The goal would be a repeatable process with room for judgment, not a formula that makes every paragraph sound alike.
 
+We have now made one part of that separation automatic. [GitHub checks](https://github.com/whatifqu3stion/creatures-of-context/actions/workflows/verify-edition.yml) run on pull requests and changes to `main`, checking the submitted manuscript and reading files for consistency, footnote order, and internal navigation. This catches production mistakes without asking an editor to remember every technical check. Source review still has to establish what a claim supports; editorial review and reader feedback still have to assess clarity, enjoyment, and progression. The [division of responsibilities](methods/WORKFLOW.md#who-checks-what) explains what each review can establish.
+
 ## Different models, and a fresh conversation
 
 Reviews and rewrites from other models drew attention to things we had become used to, especially repetitive qualifications and a middle section that could feel predictable. Some proposed cuts helped. Others removed useful warmth or changed the meaning. We compared passages and kept selected changes.

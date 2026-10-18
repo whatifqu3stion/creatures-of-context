@@ -18,6 +18,23 @@ Edit [`manuscript/Creatures_of_Context.md`](../manuscript/Creatures_of_Context.m
 
 The validator checks chapter/output consistency, note order, EPUB resources and anchors, PDF destinations, and text bounds. The [technical results](../records/TECHNICAL_QA.json) and [visual-review record](../records/VISUAL_QA.md) describe the checks performed. They do not verify scientific claims. A new release also needs visual inspection; e-reader rendering can vary between applications.
 
+## Automatic checks on GitHub
+
+[Verify reading editions](../.github/workflows/verify-edition.yml) runs on pull requests and pushes to `main`, and can also be started manually from the repository's Actions tab. It installs only the validation dependency and checks the committed manuscript, manifest, and reading files. It deliberately does not rebuild first: doing so could replace a stale output and conceal that it was missing from the submitted update. This workflow validates delivered files; building and visually reviewing a new edition remain separate release tasks.
+
+To run the same check locally without installing the build tools:
+
+```bash
+python3 -m pip install -r requirements-checks.txt
+python3 validate_edition.py
+```
+
+The validator writes diagnostics to the terminal and `records/TECHNICAL_QA.json`, and exits unsuccessfully when checks fail. If an edition is out of date, rebuild from the canonical manuscript, inspect the result, and commit the manuscript, generated reading files, manifest, and updated technical record together. Do not change the manifest just to silence a mismatch.
+
+Passing checks establish file consistency and the navigation checks listed above. They do not verify external URLs, scientific accuracy, visual quality, or readability. See [who checks what](../methods/WORKFLOW.md#who-checks-what) for the remaining reviews.
+
+## Replay the historical edit
+
 An optional replay applies the recorded replacements to the archived input and checks that it produces the archived October 2 chapters:
 
 ```bash

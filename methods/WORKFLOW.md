@@ -35,6 +35,25 @@ For a new chapter, the practical sequence would be:
 
 That is our proposed next approach, not an experimentally established advantage of multiple passes. Some course correction is unavoidable. If the same correction keeps recurring, change the instruction that encourages the problem rather than adding another permanent cleanup pass. Actual reader response remains necessary to judge whether the work is enjoyable.
 
+## Who checks what
+
+The existing edition validator now runs automatically on pull requests and pushes to `main`. It checks the files submitted in the change, before any rebuild could replace an out-of-date reading copy. The other responsibilities below describe the review process we intend to follow; an automated pass does not establish that those reviews have happened.
+
+| Responsibility | Question it answers | What it produces |
+|---|---|---|
+| Author and editor | Is this clear, enjoyable, and worth following? Does each section add understanding, including evidence that challenges the premise? | Specific revisions with reasons, checked against neighboring chapters. |
+| Evidence reviewer | Does the revised wording still match the source, including scope, causal status, and uncertainty? | A source record and corrections to changed claims. Unresolved questions remain visible. |
+| Automated edition checks | Do the submitted files match their manifest and manuscript? Are notes and internal reading links intact? | A pass or failure with diagnostics for consistency, note order, EPUB resources and anchors, PDF destinations, and page bounds. |
+| Release reviewer | Do the actual pages and e-reader edition work, and which editorial or scientific questions remain? | Visual inspection and an accurate account of the edition's review status. |
+
+These are separate responsibilities even when the same person or assistant carries out several of them. Calling a second pass a review does not make it independent. Fresh readers judge the words they receive; specialists address scientific questions that our production checks cannot answer.
+
+Keep qualifications in the main text when removing them would change the apparent finding. Move supporting detail to notes only when the main text remains accurate by itself. Recheck claims after an edit for readability, and read across sections for repeated argumentative moves. A count of cautious words cannot make those decisions.
+
+The [automated workflow](../.github/workflows/verify-edition.yml) is limited to the existing validator. It does not rebuild the editions, test external URLs, verify sources, or score prose. A passing check is not publication approval or a claim that the book has received independent review. [Build instructions](../docs/BUILD.md) explain how to update the editions and rerun the checks.
+
+After the book's integration edit, we encountered Jonathan Becker's [paper-authoring workflow](https://github.com/Jon-Becker/research/pull/4). Its separation of structural verification from editorial review was a useful reference for this addition. It did not guide the earlier drafting or establish that our proposed editorial process works.
+
 ## Continuing work and reading afresh
 
 A continuing conversation helped preserve decisions: why a chapter existed, why a caveat mattered, and why an attractive rewrite had been rejected. But a reviewer who has followed all that discussion can read the intended book into the actual words.
