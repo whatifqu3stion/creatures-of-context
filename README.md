@@ -42,7 +42,7 @@ One recent edit made a study's limitation easier to picture:
 
 The explanation is still cautious, but its opening points back to the people being studied. It is longer; brevity was not the only aim.
 
-The [paragraph comparisons](methods/WORKED_EXAMPLES.md) include seven pairs from earlier and recent work, with their sources identified, with what each change gained or gave up.
+The [paragraph comparisons](methods/WORKED_EXAMPLES.md) include seven pairs from earlier and recent work. Each identifies its sources and explains what the change gained or gave up.
 
 ## What the skills were good for
 
