@@ -1,6 +1,6 @@
 # How we worked, and what we would change
 
-Updated 18 October 2026. This account separates what happened from the approach we would try next. It is a record of one project, not a comparison of workflows under controlled conditions.
+Updated 26 October 2026; the manuscript remains the 18 October reader beta. This account separates what happened from the approach we would try next. It is a record of one project, not a comparison of workflows under controlled conditions.
 
 ## How the work developed
 
@@ -10,6 +10,8 @@ Once a complete draft existed, we asked separately whether its argument held tog
 
 Later reviews without the custom prose skill, and reviews and rewrites from other models, found problems the earlier passes had not resolved. Several chapters sounded too similar even when their subjects differed. Repeated qualifications slowed the reading. Some illustrations worked much better when an attempted solution revealed a new problem. The garden became important because greater understanding could leave a conflict intact.
 
+Specific requests gave us more to work with than broad ones. “Make it more human” was less useful than “let the first attempt reveal the problem” or “show what the researchers actually did.” In the sleep chapter, leaving the phone downstairs fails when the parent stays up with a printed book instead. The reader can discover why the first explanation was incomplete rather than being handed the conclusion before the example begins.
+
 We compared the external rewrites with the saved manuscript in chunks, then considered the whole book. That helped distinguish local improvements from changes that repeated or weakened material elsewhere. We retained the saved manuscript as the base. The final integration edit restored a few useful sentences and some warmth, clarified two claims, and kept the stronger individual-difference example and additional source work.
 
 ## Instructions helped carry checks, not guarantee results
@@ -17,6 +19,8 @@ We compared the external rewrites with the saved manuscript in chunks, then cons
 The editing skill preserved intentions between tasks: retain uncertainty where it matters, distinguish an illustration from evidence, inspect support for added detail, and compare an edit with its original. It was useful to have these expectations written down.
 
 The weakness was treating compliance as evidence that a reader would enjoy the result. A passage could obey the instructions and still be predictable. Removing a familiar sentence pattern could also remove a helpful distinction. Our later comparison recovered the stress chapter's line, “The work has become clearer, not more possible,” for that reason.
+
+The assistant sometimes called a draft finished before later reviews found substantial problems. Asking the same system to write, apply its own instructions, and pronounce the result ready gave us too little distance from the work. A checklist could catch repeated wording while missing a flat chapter, or encourage caution without noticing that every finding now carried the same disclaimer.
 
 The final integration edit did not apply the self-created prose skill. Its archived instructions remain available as part of the project's history, with their license and attribution intact. We cannot separate the skill's effects from the prompts, models, drafts, and editorial decisions that changed alongside it.
 
