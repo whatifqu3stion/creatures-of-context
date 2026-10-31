@@ -1,4 +1,4 @@
-reportlab==4.4.9
+reportlab==5.1.0
 -r requirements-checks.txt
 matplotlib==3.10.8
 Pillow==13.0.0
